@@ -1,2 +1,2 @@
-# zenn-pubic-repo
+# zenn-repo
 Articile and book management repository for Zenn.
